@@ -1,0 +1,12 @@
+D:\ПП\Lec03LibN\Lec03LibN\obj\Debug\net6.0\Lec03LibN.csproj.AssemblyReference.cache
+D:\ПП\Lec03LibN\Lec03LibN\obj\Debug\net6.0\Lec03LibN.GeneratedMSBuildEditorConfig.editorconfig
+D:\ПП\Lec03LibN\Lec03LibN\obj\Debug\net6.0\Lec03LibN.AssemblyInfoInputs.cache
+D:\ПП\Lec03LibN\Lec03LibN\obj\Debug\net6.0\Lec03LibN.AssemblyInfo.cs
+D:\ПП\Lec03LibN\Lec03LibN\obj\Debug\net6.0\Lec03LibN.csproj.CoreCompileInputs.cache
+D:\ПП\Lec03LibN\Lec03LibN\bin\Debug\net6.0\Lec03LibN.deps.json
+D:\ПП\Lec03LibN\Lec03LibN\bin\Debug\net6.0\Lec03LibN.dll
+D:\ПП\Lec03LibN\Lec03LibN\bin\Debug\net6.0\Lec03LibN.pdb
+D:\ПП\Lec03LibN\Lec03LibN\obj\Debug\net6.0\Lec03LibN.dll
+D:\ПП\Lec03LibN\Lec03LibN\obj\Debug\net6.0\refint\Lec03LibN.dll
+D:\ПП\Lec03LibN\Lec03LibN\obj\Debug\net6.0\Lec03LibN.pdb
+D:\ПП\Lec03LibN\Lec03LibN\obj\Debug\net6.0\ref\Lec03LibN.dll

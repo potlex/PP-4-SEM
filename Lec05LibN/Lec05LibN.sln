@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lec05LibN", "Lec05LibN\Lec05LibN.csproj", "{22C5B172-2658-498B-A6E5-77A87B79764F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PP05", "PP05\PP05.csproj", "{0285A348-C120-4901-8B78-DDF0529D93F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22C5B172-2658-498B-A6E5-77A87B79764F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22C5B172-2658-498B-A6E5-77A87B79764F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22C5B172-2658-498B-A6E5-77A87B79764F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22C5B172-2658-498B-A6E5-77A87B79764F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0285A348-C120-4901-8B78-DDF0529D93F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0285A348-C120-4901-8B78-DDF0529D93F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0285A348-C120-4901-8B78-DDF0529D93F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0285A348-C120-4901-8B78-DDF0529D93F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CFF359F4-51D7-4FC0-8278-50DAEC90D354}
+	EndGlobalSection
+EndGlobal
